@@ -15,6 +15,7 @@ theme = "aerial"
   medium = "Twitter"
   icon = "twitter"
   link = "#"
+  target = "_blank"
 
 [[params.social]]
   medium = "Facebook"
